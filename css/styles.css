@@ -74,6 +74,10 @@ body {
   display: block;
   transition: 0.3s;
 }
+.side-nav a:hover {
+ color:#015c4a;
+ background-color: white;
+}
  
   #home{ 
       /* background-image: url(https://images.unsplash.com/photo-1527147949440-77550c392a2c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9e2674a829c271a3db1039d1d23d9d56&auto=format&fit=crop&w=750&q=80); */
